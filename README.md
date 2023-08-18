@@ -1,7 +1,9 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
+![MasterHead](https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?w=826)
 
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">I am an Engineer passionate about technology and data analysis.</h3>
+
+<img align="right" alt="coding!" width="400" src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiaspiccirilli&label=Profile%20views&color=0e75b6&style=flat" alt="matiaspiccirilli" /> </p>
 
