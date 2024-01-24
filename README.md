@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?w=826)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFYGWi8OZHdbA/profile-displaybackgroundimage-shrink_350_1400/0/1706120338967?e=1711584000&v=beta&t=mo7fZlY21QL_TAaKQ-kt1GoRKjc81N7tZmCBhesI1tE)
 
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">I am an Engineer passionate about technology and data analysis.</h3>
